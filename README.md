@@ -1,6 +1,6 @@
 # <ins>Zomato Bangalore Restraunt Review Power BI Report</ins>
 
-This is a power BI report analyzing Zomato Review dataset dataset for Bangalore.
+This is a power BI report analyzing Zomato Review dataset for Bangalore.
 
 Report is based on the following Business Problems:
 
